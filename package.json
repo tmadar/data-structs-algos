@@ -1,0 +1,17 @@
+{
+    "name": "data-structs-algos",
+    "version": "1.0.0",
+    "description": "Learning workspace",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {},
+    "devDependencies": {
+        "@babel/core": "^7.25.2",
+        "@babel/eslint-parser": "^7.25.1",
+        "eslint": "^8.2.0",
+        "eslint-config-airbnb": "^19.0.4"
+    },
+    "engines": {
+        "node": "20.x"
+    }
+}
